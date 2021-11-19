@@ -1,0 +1,27 @@
+html{
+    background-color: white;
+    
+}
+
+.tic{
+    text-align: center;
+    background-color: white;
+    color: red;
+    
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+    width:20vw;
+    height:15vw;
+    color: blue;
+    
+}
+
+.sq{
+    text-align: center;
+    font-size: 2em;
+}
